@@ -30,7 +30,7 @@ bash process.sh
 
 ```bash
 conda activate mamba
-python VMCNet.py
+python train.py
 ```
 
 ## Inference

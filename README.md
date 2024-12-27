@@ -23,7 +23,7 @@ The data should be saved in a `.csv` file format, and the content is shown in th
 Process all `.nii` files in the folder using FSL.
 
 ```bash
-bash registation.sh
+bash process.sh
 ```
 
 ## Training
